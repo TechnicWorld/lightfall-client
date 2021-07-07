@@ -9,6 +9,8 @@
   },
   "mixins": [
     "ClientLoginNetHandlerMixin",
-    "MinecraftMixin"
+    "ClientPlayNetHandlerMixin",
+    "MinecraftMixin",
+    "NetworkInstanceMixin"
   ]
 }
