@@ -11,6 +11,8 @@
     "client.gui.screen.ConnectingScreenMixin",
     "client.multiplayer.ServerAddressMixin",
     "client.network.ServerPingerMixin",
+    "forge.fml.network.FMLHandshakeHandlerMixin",
+    "forge.fml.network.NetworkRegistryMixin",
     "network.NetworkManagerMixin"
   ]
 }
